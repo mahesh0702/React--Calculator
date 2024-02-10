@@ -4,10 +4,9 @@
 
 
 ## Demo Look In Operation
- ![Screenshot (329)](https://github.com/mahesh0702/React-Calculator/assets/97695969/e1e5a657-8b3c-4dc7-9d1e-9e6e319367b8)
- ![Screenshot (330)](https://github.com/mahesh0702/React-Calculator/assets/97695969/a79205f2-6c27-401d-91df-121e114d4df8)
- ![Screenshot (331)](https://github.com/mahesh0702/React-Calculator/assets/97695969/560e1599-93b2-4be4-a244-d3a422037e2d)
-
+![Screenshot (333)](https://github.com/mahesh0702/React-Calculator/assets/97695969/15fe2c23-0d4a-46d6-a978-f8805e14cdf4)
+![Screenshot (332)](https://github.com/mahesh0702/React-Calculator/assets/97695969/111068de-23e1-4b35-a708-dffe00869f87)
+![Screenshot (334)](https://github.com/mahesh0702/React-Calculator/assets/97695969/3dde8a9a-778b-4349-abc9-1dc9df353428)
 
 1) First Clone this project:
 
