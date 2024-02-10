@@ -4,10 +4,10 @@
 
 
 ## Demo Look In Operation
- 
+ ![Screenshot (329)](https://github.com/mahesh0702/React-Calculator/assets/97695969/e1e5a657-8b3c-4dc7-9d1e-9e6e319367b8)
+ ![Screenshot (330)](https://github.com/mahesh0702/React-Calculator/assets/97695969/a79205f2-6c27-401d-91df-121e114d4df8)
+ ![Screenshot (331)](https://github.com/mahesh0702/React-Calculator/assets/97695969/560e1599-93b2-4be4-a244-d3a422037e2d)
 
-
-## Start With This Calculator
 
 1) First Clone this project:
 
